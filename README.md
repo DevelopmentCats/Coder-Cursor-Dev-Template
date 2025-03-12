@@ -4,7 +4,7 @@ description: Provision Docker containers with Cursor IDE as Coder workspaces
 icon: ../../../site/static/icon/docker.png
 maintainer_github: coder
 verified: true
-tags: [docker, container, cursor, nodejs]
+tags: [git-clone, cursor, nodejs]
 ---
 
 # Remote Development with Cursor IDE on Docker Containers
